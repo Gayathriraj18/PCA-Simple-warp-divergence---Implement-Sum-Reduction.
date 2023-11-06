@@ -300,7 +300,6 @@ int main(int argc, char **argv)
 ```
 
 ## Output:
-
 ![pca3](https://github.com/Gayathriraj18/PCA-Simple-warp-divergence---Implement-Sum-Reduction./assets/94154854/165f0247-adfd-48dd-b348-9b31a7068cc0)
 
 ## Result:
